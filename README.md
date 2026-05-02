@@ -1,6 +1,6 @@
 # Marketing Campaign Performance SQL Project
 
-
+![image alt](https://github.com/puvizhidharshinim/Marketing-Campaign-Performance-project/blob/b319fb2f094edfcee710c58c03149e75d73a9ede/1.png)
 
 
 ## Project Objectives
